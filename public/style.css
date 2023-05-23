@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    overflow: hidden
+    
+}
+    .sin{
+        background-color: rgb(235, 229, 229);
+width:600px;
+height: 70vh;
+    }
+    body{
+        background-color: white;
+    }
+    .contanier{
+        display: flex;
+        justify-content: center;
+    }
+    .fi{
+        width: 30%;
+        height: 40px;
+        margin-top: 20px;
+        margin-left:12px; 
+        padding-left: 10px;
+        background-color: #f5f6f7;
+        border: hidden;
+        border: 1px black solid;
+        border-radius: 5px;
+    }
+    .se{
+        width: 60%;
+        height: 40px;
+        margin-top: 20px;
+        margin-left:15px; 
+        padding-left: 10px;
+        background-color: #f5f6f7;
+        border: hidden;
+        border: 1px black solid;
+        border-radius: 5px;
+
+    }
+    .sel{
+        height: 33px;
+    width: 18%;
+    margin-left: 9px;
+    font-size: 1.1em;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 7px;
+    border-color: rgb(18, 17, 17);
+    background-color: #f5f6f7;
+    }
+    .peh{
+        height: 33px;
+        width: 19%;
+        border: 1px solid black ;
+        border-radius: 6px;
+       display: inline-block;
+       background-color: #f5f6f7;
+    
+        
+    }.dusr{
+        height: 33px;
+        width: 19%;
+        border: 1px solid  ;
+        border-radius: 6px;
+        display: inline-block;
+        background-color: #f5f6f7;
+    
+        
+    }
+    .tisr{
+        height: 33px;
+        width: 19%;
+        border: 1px solid  ;
+        border-radius: 6px;
+        display: inline-block;
+        background-color: #f5f6f7;
+    
+        
+    }
+    .maer{
+        margin-left: 15px;
+       
+    }
+    .radio{
+        position: relative;
+        top: 1px;
+         left: 24px;
+         
+     
+     }
+     .bb{
+        position: relative;
+        left: 21%;
+     }
+    
